@@ -1,38 +1,12 @@
+# interactive-coding-challenges
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the interactive-coding-challenges notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![interactive-coding-challenges](https://opengraph.githubassets.com/1/donnemartin/interactive-coding-challenges)](https://www.swifttechco.com)
-
-<br/>
-<p align="center">
-  
-</p>
-
-interactive-coding-challenges
-============
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
-
-**120+ continually updated, interactive, and test-driven coding challenges**, with [Anki flashcards](#anki-flashcards-coding-and-design).
-
-Challenges focus on **algorithms** and **data structures** found in **coding interviews**.
-
-Each challenge has one or more reference solutions that are:
-
-* Fully functional
-* Unit tested
-* Easy-to-understand
-
-Challenges will soon provide on-demand [incremental hints](https://www.swifttechco.com) to help you arrive at the optimal solution.
-
-Notebooks also detail:
-
-* Constraints
-* Test cases
-* Algorithms
-* Big-O time and space complexities
-
-Also included are **unit tested reference implementations** of various [data structures](#reference-implementations-data-structures) and [algorithms](#reference-implementations-algorithms).
+[![interactive-coding-challenges](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Challenge Solutions
 
@@ -49,7 +23,7 @@ Also included are **unit tested reference implementations** of various [data str
   <br/>
 </p>
 
-The provided [Anki flashcard deck](https://www.swifttechco.com) uses spaced repetition to help you retain key concepts.
+The provided Anki flashcard deck uses spaced repetition to help you retain key concepts.
 
 * [Coding deck](anki_cards/Coding.apkg)
 
@@ -64,11 +38,11 @@ Looking for resources to help you prep for the **System Design** and **Object-Or
   <br/>
 </p>
 
-Check out the sister repo [The System Design Primer](https://www.swifttechco.com), which contains additional Anki decks:
+Check out the sister repo The System Design Primer, which contains additional Anki decks:
 
-* [System design deck](https://www.swifttechco.com)
-* [System design exercises deck](https://www.swifttechco.com)
-* [Object oriented design exercises deck](https://www.swifttechco.com)
+* System design deck
+* System design exercises deck
+* Object oriented design exercises deck
 
 [![](https://camo.githubusercontent.com/e45e39c36eebcc4c66e1aecd4e4145112d8e88e3/687474703a2f2f692e696d6775722e636f6d2f6a6a3341354e382e706e67)](https://www.swifttechco.com)
 
@@ -95,7 +69,7 @@ Each challenge has two notebooks, a **challenge notebook** with unit tests for y
 
 ### Hints
 
-* [Challenge Notebook] Provides on-demand [incremental hints](https://www.swifttechco.com) to help you arrive at the optimal solution.  Coming soon!
+* [Challenge Notebook] Provides on-demand incremental hints to help you arrive at the optimal solution.  Coming soon!
 
 ### Code (Challenge: Implement Me!)
 
@@ -122,8 +96,8 @@ Each challenge has two notebooks, a **challenge notebook** with unit tests for y
 * [Mathematics and Probability](#mathematics-and-probability) - 6
 * [Bit Manipulation](#bit-manipulation) - 8
 * [Online Judges](#online-judges) - 16
-* [System Design](https://www.swifttechco.com) - 8
-* [Object Oriented Design](https://www.swifttechco.com) - 8
+* System Design - 8
+* Object Oriented Design - 8
 
 **Total number of challenges: 120**
 
@@ -131,50 +105,50 @@ Each challenge has two notebooks, a **challenge notebook** with unit tests for y
 
 Unit tested, fully functional implementations of the following data structures:
 
-* [Linked List](https://www.swifttechco.com)
-* [Stack](https://www.swifttechco.com)
-* [Queue](https://www.swifttechco.com)
-* [Binary Search Tree](https://www.swifttechco.com)
-* [Graph](https://www.swifttechco.com)
-* [Min Heap](https://www.swifttechco.com)
-* [Trie](https://www.swifttechco.com)
-* [Priority Queue](https://www.swifttechco.com)
-* [Hash Map](https://www.swifttechco.com)
+* Linked List
+* Stack
+* Queue
+* Binary Search Tree
+* Graph
+* Min Heap
+* Trie
+* Priority Queue
+* Hash Map
 
 ### Reference Implementations: Algorithms
 
 Unit tested, fully functional implementations of the following algorithms:
 
-* [Selection Sort](https://www.swifttechco.com)
-* [Insertion Sort](https://www.swifttechco.com)
-* [Quick Sort](https://www.swifttechco.com)
-* [Merge Sort](https://www.swifttechco.com)
-* [Radix Sort](https://www.swifttechco.com)
-* [Topological Sort](https://www.swifttechco.com)
-* [Tree Depth-First Search (Pre-, In-, Post-Order)](https://www.swifttechco.com)
-* [Tree Breadth-First Search](https://www.swifttechco.com)
-* [Graph Depth-First Search](https://www.swifttechco.com)
-* [Graph Breadth-First Search](https://www.swifttechco.com)
-* [Dijkstra's Shortest Path](https://www.swifttechco.com)
-* [Unweighted Graph Shortest Path](https://www.swifttechco.com)
-* [Knapsack 0/1](https://www.swifttechco.com)
-* [Knapsack Unbounded](https://www.swifttechco.com)
-* [Sieve of Eratosthenes](https://www.swifttechco.com)
+* Selection Sort
+* Insertion Sort
+* Quick Sort
+* Merge Sort
+* Radix Sort
+* Topological Sort
+* Tree Depth-First Search (Pre-, In-, Post-Order)
+* Tree Breadth-First Search
+* Graph Depth-First Search
+* Graph Breadth-First Search
+* Dijkstra's Shortest Path
+* Unweighted Graph Shortest Path
+* Knapsack 0/1
+* Knapsack Unbounded
+* Sieve of Eratosthenes
 
 ### Reference Implementations: TODO
 
-* [A*](https://www.swifttechco.com)
-* [Bellman-Ford](https://www.swifttechco.com)
-* [Bloom Filter](https://www.swifttechco.com)
-* [Convex Hull](https://www.swifttechco.com)
-* [Fisher-Yates Shuffle](https://www.swifttechco.com)
-* [Kruskal's](https://www.swifttechco.com)
-* [Max Flow](https://www.swifttechco.com)
-* [Prim's](https://www.swifttechco.com)
-* [Rabin-Karp](https://www.swifttechco.com)
-* [Traveling Salesman](https://www.swifttechco.com)
-* [Union Find](https://www.swifttechco.com)
-* [Contribute](https://www.swifttechco.com)
+* A*
+* Bellman-Ford
+* Bloom Filter
+* Convex Hull
+* Fisher-Yates Shuffle
+* Kruskal's
+* Max Flow
+* Prim's
+* Rabin-Karp
+* Traveling Salesman
+* Union Find
+* Contribute
 
 ### Installing and Running Challenges
 
@@ -184,7 +158,7 @@ Unit tested, fully functional implementations of the following algorithms:
 
 ### Misc
 
-* [Contributing](https://www.swifttechco.com)
+* Contributing
 * [Credits](#credits)
 * [Contact Info](#contact-info)
 * [License](#license)
@@ -205,21 +179,21 @@ Unit tested, fully functional implementations of the following algorithms:
 
 | Challenge | Static Notebook |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Determine if a string contains unique characters | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine if a string is a permutation of another | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine if a string is a rotation of another | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Compress a string | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Reverse characters in a string | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Given two strings, find the single different char | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find two indices that sum to a specific value | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a hash table | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement fizz buzz | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the first non-repeated character in a string | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Remove specified characters in a string | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Reverse words in a string | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Convert a string to an integer | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Convert an integer to a string | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Add a challenge | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
+| Determine if a string contains unique characters | Challenge │ Solution |
+| Determine if a string is a permutation of another | Challenge │ Solution |
+| Determine if a string is a rotation of another | Challenge │ Solution |
+| Compress a string | Challenge │ Solution |
+| Reverse characters in a string | Challenge │ Solution |
+| Given two strings, find the single different char | Challenge │ Solution |
+| Find two indices that sum to a specific value | Challenge │ Solution |
+| Implement a hash table | Challenge │ Solution |
+| Implement fizz buzz | Challenge │ Solution |
+| Find the first non-repeated character in a string | Contribute │ Contribute |
+| Remove specified characters in a string | Contribute │ Contribute |
+| Reverse words in a string | Contribute │ Contribute |
+| Convert a string to an integer | Contribute │ Contribute |
+| Convert an integer to a string | Contribute │ Contribute |
+| Add a challenge | Contribute │ Contribute |
 
 <br/>
 <p align="center">
@@ -233,16 +207,16 @@ Unit tested, fully functional implementations of the following algorithms:
 
 | Challenge | Static Notebook |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Remove duplicates from a linked list | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the kth to last element of a linked list | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Delete a node in the middle of a linked list | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Partition a linked list around a given value | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Add two numbers whose digits are stored in a linked list | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the start of a linked list loop | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine if a linked list is a palindrome | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a linked list | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine if a list is cyclic or acyclic | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Add a challenge | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
+| Remove duplicates from a linked list | Challenge │ Solution |
+| Find the kth to last element of a linked list | Challenge │ Solution |
+| Delete a node in the middle of a linked list | Challenge │ Solution |
+| Partition a linked list around a given value | Challenge │ Solution |
+| Add two numbers whose digits are stored in a linked list | Challenge │ Solution |
+| Find the start of a linked list loop | Challenge │ Solution |
+| Determine if a linked list is a palindrome | Challenge │ Solution |
+| Implement a linked list | Challenge │ Solution |
+| Determine if a list is cyclic or acyclic | Contribute │ Contribute |
+| Add a challenge | Contribute │ Contribute |
 
 <br/>
 <p align="center">
@@ -256,15 +230,15 @@ Unit tested, fully functional implementations of the following algorithms:
 
 | Challenge | Static Notebook |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Implement n stacks using a single array | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a stack that keeps track of its minimum element | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a set of stacks class that wraps a list of capacity-bounded stacks | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a queue using two stacks | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Sort a stack using another stack as a buffer | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a stack | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a queue | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a priority queue backed by an array | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Add a challenge | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
+| Implement n stacks using a single array | Challenge │ Solution |
+| Implement a stack that keeps track of its minimum element | Challenge │ Solution |
+| Implement a set of stacks class that wraps a list of capacity-bounded stacks | Challenge │ Solution |
+| Implement a queue using two stacks | Challenge │ Solution |
+| Sort a stack using another stack as a buffer | Challenge │ Solution |
+| Implement a stack | Challenge │ Solution |
+| Implement a queue | Challenge │ Solution |
+| Implement a priority queue backed by an array | Challenge │ Solution |
+| Add a challenge | Contribute │ Contribute |
 
 <br/>
 <p align="center">
@@ -278,28 +252,28 @@ Unit tested, fully functional implementations of the following algorithms:
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Implement depth-first search (pre-, in-, post-order) on a tree |  [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement breadth-first search on a tree | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine the height of a tree | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Create a binary search tree with minimal height from a sorted array | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Create a linked list for each level of a binary tree | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Check if a binary tree is balanced | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine if a tree is a valid binary search tree | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the in-order successor of a given node in a binary search tree | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the second largest node in a binary search tree | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the lowest common ancestor | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Invert a binary tree | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a binary search tree | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a min heap | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a trie | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement depth-first search on a graph |  [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement breadth-first search on a graph | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine if there is a path between two nodes in a graph | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a graph | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find a build order given a list of projects and dependencies. |  [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the shortest path in a weighted graph. |  [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the shortest path in an unweighted graph. |  [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Add a challenge | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
+| Implement depth-first search (pre-, in-, post-order) on a tree |  Challenge │ Solution |
+| Implement breadth-first search on a tree | Challenge │ Solution |
+| Determine the height of a tree | Challenge │ Solution |
+| Create a binary search tree with minimal height from a sorted array | Challenge │ Solution |
+| Create a linked list for each level of a binary tree | Challenge │ Solution |
+| Check if a binary tree is balanced | Challenge │ Solution |
+| Determine if a tree is a valid binary search tree | Challenge │ Solution |
+| Find the in-order successor of a given node in a binary search tree | Challenge │ Solution |
+| Find the second largest node in a binary search tree | Challenge │ Solution |
+| Find the lowest common ancestor | Challenge │ Solution |
+| Invert a binary tree | Challenge │ Solution |
+| Implement a binary search tree | Challenge │ Solution |
+| Implement a min heap | Challenge │ Solution |
+| Implement a trie | Challenge │ Solution |
+| Implement depth-first search on a graph |  Challenge │ Solution |
+| Implement breadth-first search on a graph | Challenge │ Solution |
+| Determine if there is a path between two nodes in a graph | Challenge │ Solution |
+| Implement a graph | Challenge │ Solution |
+| Find a build order given a list of projects and dependencies. |  Challenge │ Solution |
+| Find the shortest path in a weighted graph. |  Challenge │ Solution |
+| Find the shortest path in an unweighted graph. |  Challenge │ Solution |
+| Add a challenge | Contribute │ Contribute |
 
 <br/>
 <p align="center">
@@ -313,22 +287,22 @@ Unit tested, fully functional implementations of the following algorithms:
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Implement selection sort | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement insertion sort | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement quick sort | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement merge sort | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement radix sort | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Sort an array of strings so all anagrams are next to each other | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find an item in a sorted, rotated array | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Search a sorted matrix for an item | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find an int not in an input of n integers | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-|  Given sorted arrays A, B, merge B into A in sorted order | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement a stable selection sort | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Make an unstable sort stable | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Implement an efficient, in-place version of quicksort | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Given two sorted arrays, merge one into the other in sorted order | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Find an element in a rotated and sorted array of integers | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Add a challenge | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
+| Implement selection sort | Challenge │ Solution |
+| Implement insertion sort | Challenge │ Solution |
+| Implement quick sort | Challenge │ Solution |
+| Implement merge sort | Challenge │ Solution |
+| Implement radix sort | Challenge │ Solution |
+| Sort an array of strings so all anagrams are next to each other | Challenge │ Solution |
+| Find an item in a sorted, rotated array | Challenge │ Solution |
+| Search a sorted matrix for an item | Challenge │ Solution |
+| Find an int not in an input of n integers | Challenge │ Solution |
+|  Given sorted arrays A, B, merge B into A in sorted order | Challenge │ Solution |
+| Implement a stable selection sort | Contribute │ Contribute |
+| Make an unstable sort stable | Contribute │ Contribute |
+| Implement an efficient, in-place version of quicksort | Contribute │ Contribute |
+| Given two sorted arrays, merge one into the other in sorted order | Contribute │ Contribute |
+| Find an element in a rotated and sorted array of integers | Contribute │ Contribute |
+| Add a challenge | Contribute │ Contribute |
 
 <br/>
 <p align="center">
@@ -342,28 +316,28 @@ Unit tested, fully functional implementations of the following algorithms:
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Implement fibonacci recursively, dynamically, and iteratively | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Maximize items placed in a knapsack | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Maximize unbounded items placed in a knapsack | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the longest common subsequence | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the longest increasing subsequence | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Minimize the cost of matrix multiplication | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Maximize stock prices given k transactions | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the minimum number of ways to represent n cents given an array of coins | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the unique number of ways to represent n cents given an array of coins | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Print all valid combinations of n-pairs of parentheses | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Navigate a maze | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Print all subsets of a set | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Print all permutations of a string | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the magic index in an array | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the number of ways to run up n steps | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement the Towers of Hanoi with 3 towers and N disks | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Implement factorial recursively, dynamically, and iteratively | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Perform a binary search on a sorted array of integers | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Print all combinations of a string | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Implement a paint fill function | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Find all permutations to represent n cents, given 1, 5, 10, 25 cent coins | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Add a challenge | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
+| Implement fibonacci recursively, dynamically, and iteratively | Challenge │ Solution |
+| Maximize items placed in a knapsack | Challenge │ Solution |
+| Maximize unbounded items placed in a knapsack | Challenge │ Solution |
+| Find the longest common subsequence | Challenge │ Solution |
+| Find the longest increasing subsequence | Challenge │ Solution |
+| Minimize the cost of matrix multiplication | Challenge │ Solution |
+| Maximize stock prices given k transactions | Challenge │ Solution |
+| Find the minimum number of ways to represent n cents given an array of coins | Challenge │ Solution |
+| Find the unique number of ways to represent n cents given an array of coins | Challenge │ Solution |
+| Print all valid combinations of n-pairs of parentheses | Challenge │ Solution |
+| Navigate a maze | Challenge │ Solution |
+| Print all subsets of a set | Challenge │ Solution |
+| Print all permutations of a string | Challenge │ Solution |
+| Find the magic index in an array | Challenge │ Solution |
+| Find the number of ways to run up n steps | Challenge │ Solution |
+| Implement the Towers of Hanoi with 3 towers and N disks | Challenge │ Solution |
+| Implement factorial recursively, dynamically, and iteratively | Contribute │ Contribute |
+| Perform a binary search on a sorted array of integers | Contribute │ Contribute |
+| Print all combinations of a string | Contribute │ Contribute |
+| Implement a paint fill function | Contribute │ Contribute |
+| Find all permutations to represent n cents, given 1, 5, 10, 25 cent coins | Contribute │ Contribute |
+| Add a challenge | Contribute │ Contribute |
 
 <br/>
 <p align="center">
@@ -377,17 +351,17 @@ Unit tested, fully functional implementations of the following algorithms:
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Generate a list of primes | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the digital root | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Create a class supporting insert, max, min, mean, mode in O(1) | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine if a number is a power of two | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Add two numbers without the + or - sign | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Subtract two numbers without the + or - sign | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Check if a number is prime | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Determine if two lines on a Cartesian plane intersect | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Using only add, implement multiply, subtract, and divide for ints | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Find the kth number such that the only prime factors are 3, 5, and 7 | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Add a challenge | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
+| Generate a list of primes | Challenge │ Solution |
+| Find the digital root | Challenge │ Solution |
+| Create a class supporting insert, max, min, mean, mode in O(1) | Challenge │ Solution |
+| Determine if a number is a power of two | Challenge │ Solution |
+| Add two numbers without the + or - sign | Challenge │ Solution |
+| Subtract two numbers without the + or - sign | Challenge │ Solution |
+| Check if a number is prime | Contribute │ Contribute |
+| Determine if two lines on a Cartesian plane intersect | Contribute │ Contribute |
+| Using only add, implement multiply, subtract, and divide for ints | Contribute │ Contribute |
+| Find the kth number such that the only prime factors are 3, 5, and 7 | Contribute │ Contribute |
+| Add a challenge | Contribute │ Contribute |
 
 <br/>
 <p align="center">
@@ -401,16 +375,16 @@ Unit tested, fully functional implementations of the following algorithms:
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Implement common bit manipulation operations | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine number of bits to flip to convert a into b | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Draw a line on a screen | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Flip a bit to maximize the longest sequence of 1s | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Get the next largest and next smallest numbers | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Merge two binary numbers | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Swap odd and even bits in an integer | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Print the binary representation of a number between 0 and 1 | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine the number of 1s in the binary representation of a given integer | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
-| Add a challenge | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
+| Implement common bit manipulation operations | Challenge │ Solution |
+| Determine number of bits to flip to convert a into b | Challenge │ Solution |
+| Draw a line on a screen | Challenge │ Solution |
+| Flip a bit to maximize the longest sequence of 1s | Challenge │ Solution |
+| Get the next largest and next smallest numbers | Challenge │ Solution |
+| Merge two binary numbers | Challenge │ Solution |
+| Swap odd and even bits in an integer | Challenge │ Solution |
+| Print the binary representation of a number between 0 and 1 | Challenge │ Solution |
+| Determine the number of 1s in the binary representation of a given integer | Contribute │ Contribute |
+| Add a challenge | Contribute │ Contribute |
 
 <br/>
 <p align="center">
@@ -424,23 +398,23 @@ Unit tested, fully functional implementations of the following algorithms:
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Find the longest substring with at most k distinct chars | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the highest product of three numbers | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Maximize stocks profit from 1 buy and 1 sell | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Move all zeroes in a list to the end | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the products of every other int | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Given a list of entries and exits, find the busiest period | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine an island's perimeter | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Format license keys | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the longest absolute file path | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Merge tuple ranges | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Assign cookies | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Determine if you can win in Nim | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Check if a magazine could have been used to create a ransom note | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Find the number of times a sentence can fit on a screen | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Utopian tree | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Maximizing xor | [Challenge](https://www.swifttechco.com) │ [Solution](https://www.swifttechco.com) |
-| Add a challenge | [Contribute](https://www.swifttechco.com) │ [Contribute](https://www.swifttechco.com) |
+| Find the longest substring with at most k distinct chars | Challenge │ Solution |
+| Find the highest product of three numbers | Challenge │ Solution |
+| Maximize stocks profit from 1 buy and 1 sell | Challenge │ Solution |
+| Move all zeroes in a list to the end | Challenge │ Solution |
+| Find the products of every other int | Challenge │ Solution |
+| Given a list of entries and exits, find the busiest period | Challenge │ Solution |
+| Determine an island's perimeter | Challenge │ Solution |
+| Format license keys | Challenge │ Solution |
+| Find the longest absolute file path | Challenge │ Solution |
+| Merge tuple ranges | Challenge │ Solution |
+| Assign cookies | Challenge │ Solution |
+| Determine if you can win in Nim | Challenge │ Solution |
+| Check if a magazine could have been used to create a ransom note | Challenge │ Solution |
+| Find the number of times a sentence can fit on a screen | Challenge │ Solution |
+| Utopian tree | Challenge │ Solution |
+| Maximizing xor | Challenge │ Solution |
+| Add a challenge | Contribute │ Contribute |
 
 ## Repo Structure
 
@@ -472,7 +446,7 @@ interactive-coding-challenges        # Repo
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
 
-This README contains links to [Binder](https://www.swifttechco.com) , which hosts **dynamic notebooks** of the repo's contents online with no installation needed.
+This README contains links to Binder , which hosts **dynamic notebooks** of the repo's contents online with no installation needed.
 
 ### Jupyter Notebook
 
@@ -482,11 +456,11 @@ Run:
 pip install jupyter
 ```
 
-For detailed instructions, scripts, and tools to more optimally set up your development environment, check out the [dev-setup](https://www.swifttechco.com) repo.
+For detailed instructions, scripts, and tools to more optimally set up your development environment, check out the dev-setup repo.
 
-For more details on notebook installation, follow the directions [here](https://www.swifttechco.com).
+For more details on notebook installation, follow the directions here.
 
-More information on IPython/Jupyter Notebooks can be found [here](https://www.swifttechco.com).
+More information on IPython/Jupyter Notebooks can be found here.
 
 ## Running Challenges
 
@@ -496,7 +470,7 @@ Challenges are provided in the form of **IPython/Jupyter Notebooks** and have be
 
 *If you need to install IPython/Jupyter Notebook, see the [Notebook Installation](#notebook-installation) section.*
 
-* This README contains links to [nbviewer](https://www.swifttechco.com), which hosts **static notebooks** of the repo's contents
+* This README contains links to nbviewer, which hosts **static notebooks** of the repo's contents
 * To interact with or to modify elements within the **dynamic notebooks**, refer to the instructions below
 
 Run the notebook of challenges:
@@ -515,23 +489,23 @@ This will launch your web browser with the list of challenge categories:
 * Solve the challenge and verify it passes the unit test
 * Check out the accompanying **Solution Notebook** for further discussion
 
-To **debug** your solution with pdb, refer to the following [ticket](https://www.swifttechco.com).
+To **debug** your solution with pdb, refer to the following ticket.
 
-Note: If your solution is different from those listed in the Solution Notebook, consider submitting a pull request so others can benefit from your work.  Review the [Contributing Guidelines](https://www.swifttechco.com) for details.
+Note: If your solution is different from those listed in the Solution Notebook, consider submitting a pull request so others can benefit from your work.  Review the Contributing Guidelines for details.
 
 ## Future Development
 
 Challenges, solutions, and unit tests are presented in the form of **IPython/Jupyter Notebooks**.
 
-* Notebooks currently contain mostly Python solutions (tested on both Python 2.7 and Python 3.x), but can be extended to include [40+ supported languages](https://www.swifttechco.com)
+* Notebooks currently contain mostly Python solutions (tested on both Python 2.7 and Python 3.x), but can be extended to include 40+ supported languages
 * Repo will be **continually updated** with new solutions and challenges
-* [Contributions](https://www.swifttechco.com) are welcome!
+* Contributions are welcome!
 
 ## Contributing
 
 Contributions are welcome!
 
-Review the [Contributing Guidelines](https://www.swifttechco.com) for details on how to:
+Review the Contributing Guidelines for details on how to:
 
 * Submit issues
 * Add solutions to existing challenges
@@ -540,7 +514,7 @@ Review the [Contributing Guidelines](https://www.swifttechco.com) for details on
 ## Contact Info
 
 
-My contact info can be found on my [GitHub page](https://www.swifttechco.com).
+My contact info can be found on my GitHub page.
 
 ## License
 
@@ -570,14 +544,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
