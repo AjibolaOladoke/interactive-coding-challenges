@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![interactive-coding-challenges](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![interactive-coding-challenges](images/preview.png)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 ## Challenge Solutions
 
@@ -44,7 +44,7 @@ Check out the sister repo The System Design Primer, which contains additional An
 * System design exercises deck
 * Object oriented design exercises deck
 
-[![](https://camo.githubusercontent.com/e45e39c36eebcc4c66e1aecd4e4145112d8e88e3/687474703a2f2f692e696d6775722e636f6d2f6a6a3341354e382e706e67)](https://www.swifttechco.com)
+[![](https://camo.githubusercontent.com/e45e39c36eebcc4c66e1aecd4e4145112d8e88e3/687474703a2f2f692e696d6775722e636f6d2f6a6a3341354e382e706e67)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 ## Notebook Structure
 
@@ -175,7 +175,7 @@ Unit tested, fully functional implementations of the following algorithms:
 
 ### Arrays and Strings
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 | Challenge | Static Notebook |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -203,7 +203,7 @@ Unit tested, fully functional implementations of the following algorithms:
 
 ### Linked Lists
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 | Challenge | Static Notebook |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -226,7 +226,7 @@ Unit tested, fully functional implementations of the following algorithms:
 
 ### Stacks and Queues
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 | Challenge | Static Notebook |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -248,7 +248,7 @@ Unit tested, fully functional implementations of the following algorithms:
 
 ### Graphs and Trees
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -283,7 +283,7 @@ Unit tested, fully functional implementations of the following algorithms:
 
 ### Sorting
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -312,7 +312,7 @@ Unit tested, fully functional implementations of the following algorithms:
 
 ### Recursion and Dynamic Programming
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -347,7 +347,7 @@ Unit tested, fully functional implementations of the following algorithms:
 
 ### Mathematics and Probability
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -371,7 +371,7 @@ Unit tested, fully functional implementations of the following algorithms:
 
 ### Bit Manipulation
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -394,7 +394,7 @@ Unit tested, fully functional implementations of the following algorithms:
 
 ### Online Judges
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 | Challenge | Static Notebooks |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -439,12 +439,11 @@ interactive-coding-challenges        # Repo
 
 <i>\*The notebooks (.ipynb) read/write the associated unit test (.py) file.</i>
 
-
 ## Notebook Installation
 
 ### Zero Install
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://www.swifttechco.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Swift-Tech-Co/interactive-coding-challenges)
 
 This README contains links to Binder , which hosts **dynamic notebooks** of the repo's contents online with no installation needed.
 
@@ -476,7 +475,7 @@ Challenges are provided in the form of **IPython/Jupyter Notebooks** and have be
 Run the notebook of challenges:
 
 ```
-$ git clone https://www.swifttechco.com
+$ git clone https://github.com/Swift-Tech-Co/interactive-coding-challenges
 $ cd interactive-coding-challenges
 $ jupyter notebook
 ```
@@ -513,7 +512,6 @@ Review the Contributing Guidelines for details on how to:
 
 ## Contact Info
 
-
 My contact info can be found on my GitHub page.
 
 ## License
@@ -526,7 +524,7 @@ My contact info can be found on my GitHub page.
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-       https://www.swifttechco.com
+       https://github.com/Swift-Tech-Co/interactive-coding-challenges
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
@@ -548,13 +546,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/interactive-coding-challenges
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
